@@ -1,8 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Marco Maqueda!
 
-**B.Sc. Computer Science & Mathematical Engineering · [University Name] · Class of 2025**
+**B.Sc. Computer Science & Mathematical Engineering · Francisco de Vitoria University · Class of 2028**
 
-Final-year student at the intersection of computer science and mathematical engineering.
+Student at the intersection of computer science and mathematical engineering.
 I work at the lower levels of the stack — systems security, language design, and runtime analysis —
 and apply formal methods and algorithm theory to build robust and tested systems.
 
@@ -11,7 +11,6 @@ and apply formal methods and algorithm theory to build robust and tested systems
 ## Research & Interests
 
 - **Systems Security** — control-flow integrity, runtime program analysis, binary instrumentation
-- **Formal Language Theory** — grammars, automata, parsing, language design
 - **Algorithm Theory** — complexity analysis, correctness proofs, formal verification
 - **Low-level Programming** — compilers, runtimes, memory models, OS internals
 
@@ -35,26 +34,26 @@ A markup language designed for documents with dynamic, programmable content. Inc
 
 ## Skills
 
-**Languages:** C · C++ · Python · Assembly · LaTeX  
+**Languages:** C · C++ · Rust · Zig · Go · Python · Assembly · LaTeX
 **Areas:** Systems Programming · Compiler Internals · Runtime Analysis · Formal Grammars  
-**Tools:** Git · GDB · Valgrind · Linux · Make / CMake
+**Tools:** QEMU · Valgrind · Linux · Make
 
 ---
 
 ## Education
 
-**[University Name]** — B.Sc. Computer Science & Mathematical Engineering *(expected June 2025)*  
-Relevant coursework: Algorithm Design, Numerical Linear Algebra, Probability Theory, Real Analysis, Convex Optimization, Machine Learning
+**Francisco de Vitoria University** — B.Sc. Computer Science & Mathematical Engineering *(expected June 2028)*  
+Relevant coursework: Algorithms and Data Structures, Computers Arhcitercure and Orgnanization, Mathematical and Computational Logic, Operating Systems
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Personal Site](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://yoursite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@university.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-maqueda)
+[![Personal Site](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://github.com/Marco-Maqueda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marco.maqueda.gomez@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com)
 
 ---
 
-*Open to research positions, graduate programs, and roles in systems software, programming languages, or security.*
+*Open to interships, research positions, graduate programs, and roles in systems software, programming languages, or security.*
