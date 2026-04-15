@@ -19,17 +19,17 @@ and apply formal methods and algorithm theory to build robust and tested systems
 ## Selected Projects
 
 ### [PHIMon-rv32i](https://github.com/Marco-Maqueda/PHIMon-rv32i.git)
-A Programable Harware Instruction runtime Monitor that evaluates the control-flow graph (CFG) of a program to to detect a compromise. Inspired on [PHMon](https://www.usenix.org/conference/usenixsecurity20/presentation/delshadtehrani), it encodes a Finate State Machine that implements a coerce CFG that cannot only evaluate the program jumps, but also the program executing instructions for critical sections.
+A Programmable Hardware Instruction runtime Monitor that evaluates the control-flow graph (CFG) of a program to detect a compromise. Inspired by [PHMon](https://www.usenix.org/conference/usenixsecurity20/presentation/delshadtehrani), it encodes a Finite State Machine that implements a coarse CFG that cannot only evaluate the program jumps, but also the program executing instructions for critical sections.
 
 `C` `Python` `Systems Security` `Formal Language Theory` `VHDL`
 
 ### [ExistenceDB](https://github.com/Marco-Maqueda/ExistenceDB.git)
-[ExistenceDB is a non-SQL, in-memory, DBMS specilized on existence and soft-delition queries. Written in C, it trades flexibility for performance.]
+ExistenceDB is a non-SQL, in-memory, DBMS specilized on existence and soft-delition queries. Written in C, it trades flexibility for performance.
 
 `C` `Valgrind` `Database Internals`
 
 ### [NeoTex](https://github.com/Marco-Maqueda/NeoTex.git)
-A markup language designed for dynamic documents (docuemnts which contents can change, such as having embeded videos). Specifically, dynamic documents that can be archived i.e. the dynamic infromation is non-destructive. 
+A markup language designed for dynamic documents (documents which contents can change, such as having embedded videos). Specifically, dynamic documents that can be archived i.e. the dynamic information is non-destructive. 
 
 `Compiler Design` `Parser`
 
@@ -37,16 +37,16 @@ A markup language designed for dynamic documents (docuemnts which contents can c
 
 ## Skills
 
-**Languages:** C · C++ · Rust · Zig · Go · Python · Assembly · LaTeX  
-**Areas:** Systems Programming · Compiler Internals · Runtime Analysis · Formal Grammars  
-**Tools:** QEMU · Valgrind · Linux · Make  
+**Languages:** C · C++ · Rust · Zig · Go · Python · Assembly · LaTeX  
+**Areas:** Systems Programming · Compiler Internals · Runtime Analysis · Formal Grammars  
+**Tools:** QEMU · Valgrind · Linux · Make  
 
 ---
 
 ## Education
 
-**Francisco de Vitoria University** — B.Sc. Computer Science & Mathematical Engineering *(expected June 2028)*  
-Relevant coursework: Algorithms and Data Structures, Computers Arhcitercure and Orgnanization, Mathematical and Computational Logic, Operating Systems
+**Francisco de Vitoria University** — B.Sc. Computer Science & Mathematical Engineering *(expected June 2028)*  
+Relevant coursework: Algorithms and Data Structures, Computer Architecture and Organization, Mathematical and Computational Logic, Operating Systems
 
 ---
 
@@ -59,4 +59,4 @@ Relevant coursework: Algorithms and Data Structures, Computers Arhcitercure and 
 
 ---
 
-*Open to interships, research positions, graduate programs, and roles in systems software, programming languages, or security.*
+*Open to internships, research positions, graduate programs, and roles in systems software, programming languages, or security.*
