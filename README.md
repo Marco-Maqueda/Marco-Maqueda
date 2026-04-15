@@ -37,9 +37,9 @@ A markup language designed for dynamic documents (documents which contents can c
 
 ## Skills
 
-**Languages:** C · C++ · Rust · Zig · Go · Python · Assembly · LaTeX  
-**Areas:** Systems Programming · Compiler Internals · Runtime Analysis · Formal Grammars  
-**Tools:** QEMU · Valgrind · Linux · Make  
+**Languages:** C · C++ · Rust · Zig · Go · Python · Assembly · LaTeX  
+**Areas:** Systems Programming · Compiler Internals · Runtime Analysis · Formal Grammars  
+**Tools:** QEMU · Valgrind · Linux · Make  
 
 ---
 
