@@ -1,6 +1,6 @@
 # Hi, I'm Marco Maqueda!
 
-**B.Sc. Computer Science & Mathematical Engineering · Francisco de Vitoria University · Class of 2028**
+**Double B.S. Mathematical Engineering + CS&E · Francisco de Vitoria University · Class of 2028**
 
 Student at the intersection of computer science and mathematical engineering.
 I work at the lower levels of the stack — systems security, language design, and runtime analysis —
